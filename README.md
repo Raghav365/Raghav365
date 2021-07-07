@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghav365
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning basic HTML
+- 👀 I’m interested in Gaming, and html coding!
+- 🌱 I’m currently learning html coding in detail
 - 💞️ I’m looking to collaborate on HTML 
 - 📫 How to reach me: raghavsd20@gmail.com
 
